@@ -3,6 +3,9 @@
 We have now added a Jupyter notebook file for studying the extrapolation and interpolation properties of neural networks. See 'extrapolation_experiments.ipynb'.
 In the notebook, a very elementary implementation of the Snake activation function is given.
 
+# Done
+- Extrapolation experiments and simple implementation of Snake.
+
 # TODO
 - Regression task on market index
 - Temperature regression task
