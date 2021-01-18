@@ -8,10 +8,10 @@ In the notebook, a very elementary implementation of the Snake activation functi
 # Done
 - Extrapolation experiments and simple implementation of Snake.
 - Temperature regression task
+- Regression task on market index
 
 # TODO
-- Regression task on market index
-- more advanced implementations of Snake (such as learnable a)
+- more advanced implementations of Snake (such as learnable a and initialization correction)
 
 
 # Notes
