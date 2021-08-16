@@ -7,7 +7,8 @@ In the notebook, a very elementary implementation of the Snake activation functi
 
 # Done
 - Extrapolation experiments and simple implementation of Snake.
-- Temperature regression task
+- Human body temperature regression task
+- Atmospheric temperature regression task
 - Regression task on market index
 
 # TODO
